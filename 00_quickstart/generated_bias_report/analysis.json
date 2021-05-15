@@ -1,0 +1,176 @@
+{
+    "version": "1.0",
+    "post_training_bias_metrics": {
+        "label": "star_rating",
+        "facets": {
+            "product_category": [
+                {
+                    "value_or_threshold": "Digital_Software",
+                    "metrics": [
+                        {
+                            "name": "AD",
+                            "description": "Accuracy Difference (AD)",
+                            "value": -0.07666666666666666
+                        },
+                        {
+                            "name": "CDDPL",
+                            "description": "Conditional Demographic Disparity in Predicted Labels (CDDPL)",
+                            "value": 0.0
+                        },
+                        {
+                            "name": "DAR",
+                            "description": "Difference in Acceptance Rates (DAR)",
+                            "value": 0.014784946236559127
+                        },
+                        {
+                            "name": "DCA",
+                            "description": "Difference in Conditional Acceptance (DCA)",
+                            "value": -0.5255376344086022
+                        },
+                        {
+                            "name": "DCR",
+                            "description": "Difference in Conditional Rejection (DCR)",
+                            "value": 0.03670634920634919
+                        },
+                        {
+                            "name": "DI",
+                            "description": "Disparate Impact (DI)",
+                            "value": 0.3870967741935484
+                        },
+                        {
+                            "name": "DPPL",
+                            "description": "Difference in Positive Proportions in Predicted Labels (DPPL)",
+                            "value": 0.2533333333333333
+                        },
+                        {
+                            "name": "DRR",
+                            "description": "Difference in Rejection Rates (DRR)",
+                            "value": 0.1333874458874459
+                        },
+                        {
+                            "name": "RD",
+                            "description": "Recall Difference (RD)",
+                            "value": 0.19508221004295656
+                        },
+                        {
+                            "name": "TE",
+                            "description": "Treatment Equality (TE)",
+                            "value": 2.425
+                        }
+                    ]
+                },
+                {
+                    "value_or_threshold": "Digital_Video_Games",
+                    "metrics": [
+                        {
+                            "name": "AD",
+                            "description": "Accuracy Difference (AD)",
+                            "value": 0.13333333333333341
+                        },
+                        {
+                            "name": "CDDPL",
+                            "description": "Conditional Demographic Disparity in Predicted Labels (CDDPL)",
+                            "value": 0.0
+                        },
+                        {
+                            "name": "DAR",
+                            "description": "Difference in Acceptance Rates (DAR)",
+                            "value": 0.2801857585139319
+                        },
+                        {
+                            "name": "DCA",
+                            "description": "Difference in Conditional Acceptance (DCA)",
+                            "value": -0.38390092879256965
+                        },
+                        {
+                            "name": "DCR",
+                            "description": "Difference in Conditional Rejection (DCR)",
+                            "value": -0.02836484983314802
+                        },
+                        {
+                            "name": "DI",
+                            "description": "Disparate Impact (DI)",
+                            "value": 0.5964912280701754
+                        },
+                        {
+                            "name": "DPPL",
+                            "description": "Difference in Positive Proportions in Predicted Labels (DPPL)",
+                            "value": 0.15333333333333335
+                        },
+                        {
+                            "name": "DRR",
+                            "description": "Difference in Rejection Rates (DRR)",
+                            "value": -0.0684093437152391
+                        },
+                        {
+                            "name": "RD",
+                            "description": "Recall Difference (RD)",
+                            "value": 0.33035714285714285
+                        },
+                        {
+                            "name": "TE",
+                            "description": "Treatment Equality (TE)",
+                            "value": -0.4285714285714284
+                        }
+                    ]
+                },
+                {
+                    "value_or_threshold": "Gift Card",
+                    "metrics": [
+                        {
+                            "name": "AD",
+                            "description": "Accuracy Difference (AD)",
+                            "value": -0.05666666666666664
+                        },
+                        {
+                            "name": "CDDPL",
+                            "description": "Conditional Demographic Disparity in Predicted Labels (CDDPL)",
+                            "value": 0.0
+                        },
+                        {
+                            "name": "DAR",
+                            "description": "Difference in Acceptance Rates (DAR)",
+                            "value": -0.21647509578544055
+                        },
+                        {
+                            "name": "DCA",
+                            "description": "Difference in Conditional Acceptance (DCA)",
+                            "value": 0.5846743295019157
+                        },
+                        {
+                            "name": "DCR",
+                            "description": "Difference in Conditional Rejection (DCR)",
+                            "value": -0.013911845730027572
+                        },
+                        {
+                            "name": "DI",
+                            "description": "Disparate Impact (DI)",
+                            "value": 3.103448275862069
+                        },
+                        {
+                            "name": "DPPL",
+                            "description": "Difference in Positive Proportions in Predicted Labels (DPPL)",
+                            "value": -0.4066666666666666
+                        },
+                        {
+                            "name": "DRR",
+                            "description": "Difference in Rejection Rates (DRR)",
+                            "value": -0.10206611570247937
+                        },
+                        {
+                            "name": "RD",
+                            "description": "Recall Difference (RD)",
+                            "value": -0.3981398139813982
+                        },
+                        {
+                            "name": "TE",
+                            "description": "Treatment Equality (TE)",
+                            "value": -1.0578947368421052
+                        }
+                    ]
+                }
+            ]
+        },
+        "label_value_or_threshold": "5,4"
+    }
+}
